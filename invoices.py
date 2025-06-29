@@ -19,6 +19,60 @@ except ImportError:
     print("openpyxl not found. Install with: pip install openpyxl")
     exit(1)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# kmk, na boa?
 try:
     import cv2
     import numpy as np
