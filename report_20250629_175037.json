@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-06-29T17:50:37.242559",
+  "summary": {
+    "total": 1,
+    "successful": 1,
+    "failed": 0
+  },
+  "files": [
+    {
+      "original_file": "Tisimu ta Ivangeli.pdf",
+      "excel_file": "Tisimu ta Ivangeli_extracted_20250629_175034.xlsx",
+      "json_file": "Tisimu ta Ivangeli_extracted_20250629_175034.json",
+      "word_file": "Tisimu ta Ivangeli_extracted_20250629_175034.docx",
+      "songs_found": 973,
+      "status": "SUCCESS"
+    }
+  ]
+}
