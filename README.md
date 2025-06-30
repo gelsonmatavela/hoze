@@ -41,7 +41,7 @@ pip install python-docx
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/pdf-hymnal-extractor.git
+git clone https://github.com/gelsonmatavela/hoze.git
 cd pdf-hymnal-extractor
 ```
 
