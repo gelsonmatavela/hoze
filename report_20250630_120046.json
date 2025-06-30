@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-06-30T12:00:46.981192",
+  "summary": {
+    "total": 3,
+    "successful": 3,
+    "failed": 0
+  },
+  "files": [
+    {
+      "original_file": "harpacrista.pdf",
+      "output_folder": "harpacrista_extracted_20250630_120018",
+      "excel_file": "harpacrista_extracted.xlsx",
+      "json_file": "harpacrista_extracted.json",
+      "word_file": "N/A",
+      "songs_found": 775,
+      "status": "SUCCESS"
+    },
+    {
+      "original_file": "Jinking nga Ivangeli - GUITONGA_112531.pdf",
+      "output_folder": "Jinking nga Ivangeli - GUITONGA_112531_extracted_20250630_120023",
+      "excel_file": "Jinking nga Ivangeli - GUITONGA_112531_extracted.xlsx",
+      "json_file": "Jinking nga Ivangeli - GUITONGA_112531_extracted.json",
+      "word_file": "N/A",
+      "songs_found": 214,
+      "status": "SUCCESS"
+    },
+    {
+      "original_file": "Tisimu ta Ivangeli.pdf",
+      "output_folder": "Tisimu ta Ivangeli_extracted_20250630_120046",
+      "excel_file": "Tisimu ta Ivangeli_extracted.xlsx",
+      "json_file": "Tisimu ta Ivangeli_extracted.json",
+      "word_file": "N/A",
+      "songs_found": 973,
+      "status": "SUCCESS"
+    }
+  ]
+}
